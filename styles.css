@@ -1,0 +1,22 @@
+h1 {
+    color: #1717af;
+    text-align-last: center;
+}
+body {
+    background-color: rgba(127, 171, 255, 0.42);
+    text-align-last: center;
+}
+p {
+    color: rgb(69, 69, 136);
+    text-align-last: center;
+}
+
+a {
+    color: #0085b7;
+    text-align-last: center;
+}
+
+strong {
+    color: #880505;
+    text-align-last: center;
+}
